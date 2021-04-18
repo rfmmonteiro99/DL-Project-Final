@@ -4,6 +4,8 @@ Dataset (German Traffic Sign Benchmark): https://www.kaggle.com/meowmeowmeowmeow
 
 Report: https://liveeduisegiunl-my.sharepoint.com/:b:/g/personal/r20170796_novaims_unl_pt/Eb3SnZsAKHlJsBepD0sitLYBP69aomwj9_KDxUgnooVL9A?e=ZFWLWy
 
+Grade: 17 out of 20
+
 **Introduction:** <br>
 For some years now, several companies like Tesla, Toyota, and Mercedes-Benz, to name a few, have been researching and creating Intelligent Systems for autonomous vehicles and self-driving cars. This is possible due to Artificial Intelligence or, more specifically, to the subset of Machine Learning called Deep Learning. For the driver to let the car drive itself autonomously, the vehicle needs to understand and follow all traffic rules; thus, it should be able to interpret traffic signs and make decisions accordingly. <br>
 When trying to follow all traffic rules, the systems are involved in two main phases: the first one, to detect traffic signs along the road, and the second one, to recognize them (if some were detected). Our Deep Learning project focuses on Phase 2, traffic sign recognition (in this case, with Convolutional Neural Networks). <br>
